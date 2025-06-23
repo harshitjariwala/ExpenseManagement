@@ -58,13 +58,13 @@ git clone https://github.com/harshitjariwala/ExpenseManagement.git
 ## 📸 Screenshots
 
 * Dashboard View
-* ![image](https://github.com/user-attachments/assets/83819ecb-47ec-44ad-b1d6-88b24c0b69f9)
+  ![image](https://github.com/user-attachments/assets/83819ecb-47ec-44ad-b1d6-88b24c0b69f9)
 
 * Add Expense Page
-* ![image](https://github.com/user-attachments/assets/5c45b07c-382f-4907-b36c-ea667b435dd7)
+  ![image](https://github.com/user-attachments/assets/5c45b07c-382f-4907-b36c-ea667b435dd7)
 
 * Summary Report
-* ![image](https://github.com/user-attachments/assets/2d6934bc-6de8-46e0-8677-5cdd3c0ab765)
+  ![image](https://github.com/user-attachments/assets/2d6934bc-6de8-46e0-8677-5cdd3c0ab765)
 
 
 ---
