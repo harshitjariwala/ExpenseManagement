@@ -35,7 +35,9 @@ git clone https://github.com/harshitjariwala/ExpenseManagement.git
 
 ### 2. Set Up Database
 
-* Import the SQL schema (`expense_tracker.sql`) into your MySQL server.
+* Create the database and tables in your MySQL server as follows.
+* create table users (userId int primary key auto_increment, firstName varchar(40) not null, email varchar(50) not null, password varchar(40) not null);
+* create table expenses(expenseId int primary key auto_increment, title varchar(100) not null, amount int not null, category varchar(50) not null, expenseDate varchar(10) not null, userId int references users);
 * Update your DB credentials in `DBConnection.java`.
 
 ### 3. Run the Project
